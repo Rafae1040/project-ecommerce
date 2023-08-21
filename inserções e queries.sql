@@ -59,6 +59,8 @@ insert into Vendedores (idVendedor, idProduct, idFornecedor, Fnome, Lnome, email
 				(224, 63, 10, 'Silvia', 'Antunes', 'silvias@mreletro.com', '1131818312','31992182456'),
                 (701, 7, 20, 'Adriana', 'Pontes', 'adrianap@gruposaber.com', '0248261918','35988221525');
 
+
+Queries
 -- Recupera todos os clientes
 SELECT * FROM Clientes;
 
